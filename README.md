@@ -1,8 +1,8 @@
 ## Hi there, I'm [Nick!](https://nickmccullum.com/) 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-mccullum/)
-[![Twitter](https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/nickjmccullum)
-[![Website](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=website&logoColor=white)](https://www.nickmccullum.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://www.twitter.com/nickjmccullum)
+[![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://www.nickmccullum.com)
 <br/>
 
 Hi, My name is Nick McCullum. I am a Mathematics & Statistics graduate from the University of New Brunswick. 
