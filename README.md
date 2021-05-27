@@ -13,7 +13,7 @@ I'm a proficient full stack developer. Here's a few examples of things I've work
 * Worked on integrations for new brokerages at [Passiv](https://passiv.com/), which is portfolio rebalancing software for self-directed investors
 * Built the entire tech stack at [Sure Dividend](https://www.suredividend.com/) as the sole engineering employee
 
-In my spare time, I love learnig about new technologies. Besides programming, I enjoy video games and team sports.
+In my spare time, I love learning about new technologies. Besides programming, I enjoy video games and team sports.
 
   
 **Language and Tools:** 
