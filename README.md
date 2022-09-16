@@ -19,7 +19,7 @@ In my spare time, I love learning about new technologies. Besides programming, I
 **Language and Tools:** 
 
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/django/django-original.svg"></code>
+<code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/django/django-plain.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
